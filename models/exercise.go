@@ -9,8 +9,3 @@ type Exercise struct {
 	Name        string    `gorm:"type:varchar(255);not null"`
 	Description string    `gorm:"type:varchar(255);not null"`
 }
-
-type ExerciseResponse struct {
-	Name        string
-	Description string
-}
