@@ -1,0 +1,7 @@
+app.env
+endpoints.txt
+*.exe
+.vscode
+docs
+.air.toml
+tmp
